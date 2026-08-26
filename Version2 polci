@@ -1,0 +1,37 @@
+Privacy Policy — Nur
+Last updated: 26 August 2026
+
+Nur is built so that your worship stays yours. The app has no accounts, no sign-in, no analytics and no advertising, and it is designed to work offline. This page explains the small amount of data that does move, and why.
+
+What stays on your device
+Everything personal: your bookmarks, notes, reading progress, streaks, memorisation marks, reading plans, and settings are stored only on your device. We cannot see them. Deleting the app deletes them.
+
+Location
+Prayer times and the qibla direction are calculated on your device from your location. Your location is never transmitted anywhere — not to us, not to anyone. If you decline location access, the app falls back to approximate times and you can still use everything else.
+
+The AI scholar
+When you ask the AI scholar a question, the text of your question (and the recent conversation, so follow-ups make sense) is sent to our server and processed by Anthropic's Claude API to generate the answer. Questions are not linked to your name or identity — the app sends a random identifier, created on install, used only to apply fair-usage limits. We do not sell this data, build profiles from it, or use it for advertising. Do not include personal details in questions.
+
+Subscriptions
+Payments are handled entirely by Apple — we never see your payment details. To recognise your subscription across reinstalls, the app uses RevenueCat, which processes your purchase receipt and an anonymous identifier. See RevenueCat's privacy policy at revenuecat.com/privacy.
+
+Recitation audio
+Streaming recitation is fetched from the EveryAyah audio archive. As with any internet download, that server sees the request (including your IP address) needed to deliver the file. Downloaded surahs play locally with no further requests.
+
+Notifications
+Adhan reminders are scheduled locally on your device. No notification data leaves it.
+
+What we never do
+No third-party analytics. No advertising or ad identifiers. No selling or sharing of data. No tracking across other apps or websites.
+
+Children
+Nur is suitable for general audiences and collects no personal information from anyone, including children.
+
+Your rights
+Because we hold no account or profile about you, there is usually nothing for us to retrieve or erase — your data lives on your device. If you have questions about this policy or wish to exercise rights under UK GDPR or similar laws, contact us and we will help.
+
+Changes
+If this policy changes, the new version will be posted at this address with an updated date.
+
+Contact
+Sooq — hello@thesooq.co.uk
